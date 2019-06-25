@@ -1,0 +1,23 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "chatbot in telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemaprathaban/telegrambot.git"
+  },
+  "author": "hemaprathaban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemaprathaban/telegrambot/issues"
+  },
+  "homepage": "https://github.com/hemaprathaban/telegrambot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
